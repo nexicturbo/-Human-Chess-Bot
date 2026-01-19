@@ -94,8 +94,8 @@ Think Time Formula:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/nexicturbo/-Human-Chess-Bot.git
-   cd -Human-Chess-Bot
+   git clone https://github.com/nexicturbo/Human-Chess-Bot.git
+   cd Human-Chess-Bot
    ```
 
 2. **Create virtual environment**
