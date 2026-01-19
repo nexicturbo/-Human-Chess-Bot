@@ -279,4 +279,4 @@ MIT License - See [LICENSE](LICENSE) file for details.
 - [Maia Chess](https://maiachess.com/) - Human-like neural network
 - [lc0](https://lczero.org/) - Leela Chess Zero engine
 - [Stockfish](https://stockfishchess.org/) - Open source chess engine
-- Original PawnBit project for the foundation
+- [PawnBit](https://github.com/PanagiotisIatrou/PawnBit) - Original project foundation
